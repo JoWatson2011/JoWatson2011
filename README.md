@@ -1,5 +1,4 @@
-# Jo Watson (she/her)
-## 👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!
+__👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 
 💻 __Tech Stack__
 - JavaScript (node.js/browser)
