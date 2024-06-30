@@ -8,14 +8,15 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - Paired programming, technical communication, SDL command line, git, GitHub, agile and SCRUM methodologies
   
 🔭 __I'm currently working on:__
-- My first full stack project! Find the back-end at: [https://github.com/JoWatson2011/nc-news](https://github.com/JoWatson2011/nc-news)
+- A mobile app developed with React Native, express and Socket IO 
 
 🌱 __I'm currently learning:__
 - React/react-native
 
 🌟 __Portfolio projects__
 - NorthCoders news back-end: [repo](https://github.com/JoWatson2011/nc-news) | [Hosted API](https://nc-news-2qmw.onrender.com/api)
-- SubcellulaRVis: [repo](https://github.com/JoWatson2011/subcellularvis) | [app](phenome.manchester.ac.uk/subcellular)
+- NorthCoders news front-end: [repo](https://github.com/JoWatson2011/fe-nc-news) | [Hosted app](https://jowatson-portfolio-nc-news.netlify.app/)
+- SubcellulaRVis: [repo](https://github.com/JoWatson2011/subcellularvis) | [Hosted app](phenome.manchester.ac.uk/subcellular)
 
 📫 How to reach me: ...
 [LinkedIn](https://www.linkedin.com/in/jolwatson/)
