@@ -11,7 +11,8 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - A mobile app developed with React Native, express and Socket IO 
 
 🌱 __I'm currently learning:__
-- React/react-native
+- Scala
+- React-native
 
 🌟 __Portfolio projects__
 - NorthCoders news back-end: [repo](https://github.com/JoWatson2011/nc-news) | [Hosted API](https://nc-news-2qmw.onrender.com/api)
