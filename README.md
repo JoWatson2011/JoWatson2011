@@ -8,13 +8,13 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - Paired programming, technical communication, SDL command line, git, GitHub, agile and SCRUM methodologies
   
 🔭 __I'm currently working on:__
-- A mobile app developed with React Native, express and Socket IO 
+- My [portfolio website](https://github.com/JoWatson2011/portfolio-website)
 
 🌱 __I'm currently learning:__
-- Scala
-- React-native
+- Vue.js
 
 🌟 __Portfolio projects__
+- RumbleQuiz, a multiplayer mobile quiz game: [repo](https://github.com/JoWatson2011/rumble-quiz-app)
 - NorthCoders news back-end: [repo](https://github.com/JoWatson2011/nc-news) | [Hosted API](https://nc-news-2qmw.onrender.com/api)
 - NorthCoders news front-end: [repo](https://github.com/JoWatson2011/fe-nc-news) | [Hosted app](https://jowatson-portfolio-nc-news.netlify.app/)
 - SubcellulaRVis: [repo](https://github.com/JoWatson2011/subcellularvis) | [Hosted app](phenome.manchester.ac.uk/subcellular)
