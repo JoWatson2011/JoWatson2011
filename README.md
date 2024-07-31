@@ -12,6 +12,7 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 
 🌱 __I'm currently learning:__
 - Django
+- e2e testing with Cypress.io 
 
 🌟 __Portfolio projects__
 - RumbleQuiz, a multiplayer mobile quiz game: [repo](https://github.com/JoWatson2011/rumble-quiz-app)
