@@ -11,13 +11,17 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - My [portfolio website](https://github.com/JoWatson2011/portfolio-website)
 
 🌱 __I'm currently learning:__
-- Vue.js
+- Django
 
 🌟 __Portfolio projects__
 - RumbleQuiz, a multiplayer mobile quiz game: [repo](https://github.com/JoWatson2011/rumble-quiz-app)
 - NorthCoders news back-end: [repo](https://github.com/JoWatson2011/nc-news) | [Hosted API](https://nc-news-2qmw.onrender.com/api)
 - NorthCoders news front-end: [repo](https://github.com/JoWatson2011/fe-nc-news) | [Hosted app](https://jowatson-portfolio-nc-news.netlify.app/)
 - SubcellulaRVis: [repo](https://github.com/JoWatson2011/subcellularvis) | [Hosted app](phenome.manchester.ac.uk/subcellular)
+
+🦸🏻‍♀️ __View my progress on codewars!__
+
+[![JoWatson2011 CodeWars](https://www.codewars.com/users/JoWatson2011/badges/small)](https://www.codewars.com/users/JoWatson2011)
 
 📫 How to reach me: ...
 [LinkedIn](https://www.linkedin.com/in/jolwatson/)
