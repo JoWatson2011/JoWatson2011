@@ -8,7 +8,7 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - Paired programming, technical communication, SDL command line, git, GitHub, agile and SCRUM methodologies
   
 🔭 __I'm currently working on:__
-- My [portfolio website](https://github.com/JoWatson2011/portfolio-website)
+- A web app that will act as a data dashboard for gym/fitness enthusiasts
 
 🌱 __I'm currently learning:__
 - Django
