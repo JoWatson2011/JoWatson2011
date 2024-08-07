@@ -8,7 +8,7 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - Paired programming, technical communication, SDL command line, git, GitHub, agile and SCRUM methodologies
   
 🔭 __I'm currently working on:__
-- A web app that will act as a data dashboard for gym/fitness enthusiasts
+- A web app that will act as a data dashboard for gym/fitness enthusiasts. I am currently spiking the tech I plan to use: django, Docker and Flutter.
 
 🌱 __I'm currently learning:__
 - Django
