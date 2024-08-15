@@ -26,7 +26,6 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 
 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/jolwatson/)
-[Email](mailto:jowatson@protonmail.com)
 
 <!--
 **JoWatson2011/JoWatson2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
