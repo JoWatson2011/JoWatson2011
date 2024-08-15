@@ -2,9 +2,9 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 
 💻 __Tech Stack__
 - JavaScript (node.js/browser)
-- Web development with express, react
-- PSQL
 - Python/R for data analysis and visualisation
+- Full-stack Web development with express, react, vue.js
+- PSQL
 - Paired programming, technical communication, SDL command line, git, GitHub, agile and SCRUM methodologies
   
 🔭 __I'm currently working on:__
@@ -24,7 +24,7 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 
 [![JoWatson2011 CodeWars](https://www.codewars.com/users/JoWatson2011/badges/small)](https://www.codewars.com/users/JoWatson2011)
 
-📫 How to reach me: ...
+📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/jolwatson/)
 [Email](mailto:jowatson@protonmail.com)
 
