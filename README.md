@@ -10,9 +10,6 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 🔭 __I'm currently working on:__
 - An ecommerce website as a portfolio project, built with React and django. See my progress here: [trove marketplace](https://github.com/JoWatson2011/trove-marketplace)
 
-🔜 __Next Up:__
-- A web app that will act as a data dashboard for gym/fitness enthusiasts. I am currently spiking the tech I plan to use: django, Docker and Flutter.
-
 🌱 __I'm currently learning:__
 - Django
 - e2e testing with Cypress.io 
