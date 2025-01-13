@@ -8,7 +8,7 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 - Paired programming, technical communication, SDL command line, git, GitHub, agile and SCRUM methodologies
   
 🔭 __I'm currently working on:__
-- An ecommerce website as a portfolio project, built with React and django. See my progress here: [trove marketplace](https://github.com/JoWatson2011/trove-marketplace)
+- An ecommerce website as a portfolio project, built with Next.js and django. See my progress here: [trove marketplace](https://github.com/JoWatson2011/trove-marketplace)
 
 🌱 __I'm currently learning:__
 - Django
