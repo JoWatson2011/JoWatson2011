@@ -24,6 +24,9 @@ __👩🏻‍🔬 ➡️ 👩🏻‍💻 Scientist turned software developer!__
 
 [![JoWatson2011 CodeWars](https://www.codewars.com/users/JoWatson2011/badges/small)](https://www.codewars.com/users/JoWatson2011)
 
+💻 __View my progress on Leetcode!__
+[https://leetcode.com/u/yahanepro/](https://leetcode.com/u/yahanepro/)
+
 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/jolwatson/)
 
